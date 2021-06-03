@@ -13,6 +13,7 @@ Array.prototype.myEach = function (callbackFn) {
   }
 };
 
+/* TEST */
 console.log("myeach: ");
 arr.myEach((x) => console.log(x));
 
