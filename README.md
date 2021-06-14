@@ -1,6 +1,6 @@
 # assignment2
 
-CSCI 39548 - homework assignment 1
+CSCI 39548 - homework assignment 2
 
 ## Team Members
 
